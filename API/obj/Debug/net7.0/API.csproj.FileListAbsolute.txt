@@ -77,3 +77,5 @@ C:\Users\shreya_dharmadhikari\demo\Reactivities\API\bin\Debug\net7.0\MediatR.Con
 C:\Users\shreya_dharmadhikari\demo\Reactivities\API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\shreya_dharmadhikari\demo\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\shreya_dharmadhikari\demo\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shreya_dharmadhikari\demo\Reactivities\API\bin\Debug\net7.0\package-lock.json
+C:\Users\shreya_dharmadhikari\demo\Reactivities\API\bin\Debug\net7.0\package.json
